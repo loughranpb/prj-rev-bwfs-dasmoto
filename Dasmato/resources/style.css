@@ -1,0 +1,15 @@
+element.style {
+}
+#paint {background-color:skyblue;
+}
+item.h2 {
+  color:white
+  font-size:32px
+}
+h1,h2,h3, p {
+  font-family:Helvetica
+}
+h2 {display: block;
+fontsize: 1.5cm;
+font-weight:bold:
+}
